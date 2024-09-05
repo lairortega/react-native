@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@react-native-community/cli-config": "^13.6.4",
-    "@react-native-community/cli-platform-apple": "^13.6.4",
+    "@react-native-community/cli-platform-apple": "^14.0.0",
     "@react-native-community/cli-tools": "^13.6.4",
     "@react-native-community/cli-types": "^13.6.4",
     "commander": "^12.0.0",
